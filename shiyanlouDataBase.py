@@ -57,5 +57,5 @@ session.add(lab1)
 session.add(lab2)
 session.commit()
 
-course.labs
+print(course.labs)
 
